@@ -45,9 +45,9 @@ financial services and enterprise cloud environments.
 
 ## The certification brain
 
-Every certification is a node in this map, colour coded by discipline. The full list is written out below it, so the detail is readable even without the image.
+The animated network below is the centrepiece. A central core, five discipline nodes, and certification nodes lighting up in turn. The full list is written out underneath, so every certification is readable as text as well.
 
-![Certification Map](assets/certification-brain-animated.svg)
+![Certification Brain - animated network](assets/certification-brain-network.svg)
 
 ### Full list, by discipline
 
@@ -125,8 +125,6 @@ Full list, including AWS security, Azure security, defence frameworks, training 
 ## The arsenal
 
 <div align="center">
-
-![Stack icons](https://skillicons.dev/icons?i=azure,aws,gcp,python,linux,git)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
