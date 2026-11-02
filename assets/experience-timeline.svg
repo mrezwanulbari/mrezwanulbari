@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="980" fill="#FFFFFF"/>
+<rect x="178" y="40" width="6" height="900" fill="#CBD5E1"/>
+<circle cx="181" cy="140" r="22" fill="#00C2FF"/>
+<circle cx="181" cy="140" r="9" fill="#FFFFFF"/>
+<rect x="230" y="30" width="920" height="270" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+<rect x="230" y="30" width="10" height="270" rx="5" fill="#00C2FF"/>
+<text x="270" y="82" fill="#00C2FF" font-size="26" font-weight="bold">2023 - Present</text>
+<text x="270" y="128" fill="#0B2447" font-size="29" font-weight="bold">Senior Cyber Security Architect / Engineer</text>
+<text x="270" y="168" fill="#475569" font-size="24">Aspire Tech Services, New York</text>
+<text x="270" y="218" fill="#334155" font-size="23">Zero Trust, multi-cloud and AI governance.</text>
+<text x="270" y="256" fill="#334155" font-size="23">60% faster response, 40% fewer false positives.</text>
+<circle cx="181" cy="440" r="22" fill="#7C3AED"/>
+<circle cx="181" cy="440" r="9" fill="#FFFFFF"/>
+<rect x="230" y="330" width="920" height="270" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+<rect x="230" y="330" width="10" height="270" rx="5" fill="#7C3AED"/>
+<text x="270" y="382" fill="#7C3AED" font-size="26" font-weight="bold">2021 - 2023</text>
+<text x="270" y="428" fill="#0B2447" font-size="29" font-weight="bold">Cyber Security Analyst, Senior Executive Officer</text>
+<text x="270" y="468" fill="#475569" font-size="24">Bank Asia PLC / BA Express, New York</text>
+<text x="270" y="518" fill="#334155" font-size="23">PCI DSS v4.0.1 programme, identity and WAF tuning.</text>
+<text x="270" y="556" fill="#334155" font-size="23">80% security uplift, response times cut 50%.</text>
+<circle cx="181" cy="740" r="22" fill="#E67E22"/>
+<circle cx="181" cy="740" r="9" fill="#FFFFFF"/>
+<rect x="230" y="630" width="920" height="270" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+<rect x="230" y="630" width="10" height="270" rx="5" fill="#E67E22"/>
+<text x="270" y="682" fill="#E67E22" font-size="26" font-weight="bold">2011 - 2021</text>
+<text x="270" y="728" fill="#0B2447" font-size="29" font-weight="bold">Lead Cyber Security Engineer, Principal Officer</text>
+<text x="270" y="768" fill="#475569" font-size="24">NCC Bank PLC, Bangladesh</text>
+<text x="270" y="818" fill="#334155" font-size="23">60+ SOAR playbooks, 1,500+ endpoints protected.</text>
+<text x="270" y="856" fill="#334155" font-size="23">MTTD and MTTR cut 45%, 80% of malicious traffic blocked.</text>
+</svg>
